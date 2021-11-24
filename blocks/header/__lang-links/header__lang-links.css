@@ -1,0 +1,6 @@
+.header__lang-links {
+  max-width: 80px;
+  display: flex;
+  justify-content: flex-end;
+  align-self: end;
+}

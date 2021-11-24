@@ -1,0 +1,8 @@
+.place__web {
+  align-self: end;
+}
+@media screen and (max-width: 767px) {
+  .place__web {
+    margin-left: 16px;
+  }
+}
