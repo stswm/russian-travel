@@ -5,6 +5,7 @@
   line-height: 58px;
   font-weight: 900;
 }
+
 @media screen and (max-width: 1023px) {
   .intro__title {
     margin-top: 88px;

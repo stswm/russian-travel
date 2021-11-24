@@ -9,11 +9,11 @@
 }
 @media screen and (max-width: 1023px) {
   .lead__caption {
-    margin-left: 24px;
+    padding-left: 1.5rem;
   }
 }
 @media screen and (max-width: 767px) {
   .lead__caption {
-    padding-left: 16px;
+    padding-left: 1rem;
   }
 }
