@@ -1,4 +1,4 @@
-.cover__discription {
+.cover__description {
   margin: 0;
   margin-top: 32px;
   font-size: 18px;
@@ -8,7 +8,7 @@
   z-index: 1;
 }
 @media screen and (max-width: 767px) {
-  .cover__discription {
+  .cover__description {
     margin-top: 14px;
     max-width: 288px;
     font-size: 14px;

@@ -1,5 +1,6 @@
 .place__web {
   align-self: end;
+  justify-self: start;
 }
 @media screen and (max-width: 767px) {
   .place__web {
