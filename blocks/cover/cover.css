@@ -8,8 +8,4 @@
     margin-top: 66px;  
   }
 }
-@media screen and (max-width: 767px) {
-  .cover{
-    max-height: 200px; 
-  }
-}
+
